@@ -13,6 +13,8 @@
 
 - [2-4. Protocol](https://github.com/hanback-lab/XHome/blob/main/Chapter2.%20Sensor%20%26%20Actuator/2-4.%20Protocol.md)
 
+- [2-5. 펌웨어 설계](https://github.com/hanback-lab/XHome/blob/main/Chapter2.%20Sensor%20%26%20Actuator/2-5.%20%ED%8E%8C%EC%9B%A8%EC%96%B4%20%EC%84%A4%EA%B3%84.md)
+
 ### Chapter 3. HMI
 - [3-1. MQTT](https://github.com/hanback-lab/XHome/blob/main/Chapter3.%20HMI/3-1.%20MQTT.md)
 
@@ -44,3 +46,6 @@
 - [8-1. 오픈 소스 기반 IoT 클라우드 설치](https://github.com/hanback-lab/XHome/blob/main/Chapter8.%20Cloud%20Service/8-1.%20%EC%98%A4%ED%94%88%20%EC%86%8C%EC%8A%A4%20%EA%B8%B0%EB%B0%98%20IoT%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%84%A4%EC%B9%98.md)
 
 - [8-2. 오픈 소스 기반 IoT 클라우드 활용](https://github.com/hanback-lab/XHome/blob/main/Chapter8.%20Cloud%20Service/8-2.%20%EC%98%A4%ED%94%88%20%EC%86%8C%EC%8A%A4%20%EA%B8%B0%EB%B0%98%20IoT%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%ED%99%9C%EC%9A%A9.md)
+
+### Appedix.
+- [A. Pop API]()
