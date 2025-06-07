@@ -48,4 +48,4 @@
 - [8-2. 오픈 소스 기반 IoT 클라우드 활용](https://github.com/hanback-lab/XHome/blob/main/Chapter8.%20Cloud%20Service/8-2.%20%EC%98%A4%ED%94%88%20%EC%86%8C%EC%8A%A4%20%EA%B8%B0%EB%B0%98%20IoT%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%ED%99%9C%EC%9A%A9.md)
 
 ### Appedix.
-- [A. Pop API]()
+- [A. Pop API](https://github.com/hanback-lab/XHome/blob/main/ETC/A.%20Pop%20API.md)
